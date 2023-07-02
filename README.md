@@ -1,8 +1,6 @@
 # Face-Recognition-Attendance-system
 This system  Will able to perform  Face-Recognition-Attendance-system.
 
-Facebook : https://www.facebook.com/www.mohammadbakir/
-Contact-sayfshafi@gmail.com
 How to Run this project ------------------------------------------------------
 Install  Pycharm /Python IDEL 3.9 
 add library instructions ---------------
